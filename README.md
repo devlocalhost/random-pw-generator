@@ -13,4 +13,4 @@ No need to install any package, just
 * cd to the folder
 * python3 main.py
 # NOTE
-Make sure your python version is 3.8.0!! This script will NOT work on older version!
+Make sure your python version is 3.6+! This script might NOT work on older version!
