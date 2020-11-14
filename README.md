@@ -1,5 +1,5 @@
-# Random password generator made in python
-This is a "small" script that allows you to generate random passwords that may contain
+# Random password generator
+This is a "small" script that allows you to generate mixed password with
 * numbers
 * characters
 * both, numbers and characters
@@ -9,7 +9,7 @@ This is a "small" script that allows you to generate random passwords that may c
 ![Example](https://github.com/devlocalhost/random-pw-generator/blob/main/pic3.png)
 # Installation
 No need to install any package, just
-* download the file or git clone it
+* download the file or git clone the repo and extract the zip file
 * cd to the folder
 * python3 main.py
 # NOTE
