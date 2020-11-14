@@ -9,7 +9,7 @@ This is a "small" script that allows you to generate mixed password with
 ![Example](https://github.com/devlocalhost/random-pw-generator/blob/main/pic3.png)
 # Installation
 No need to install any package, just
-* download the file or git clone the repo and extract the zip file
+* [download](https://github.com/devlocalhost/random-pw-generator/archive/main.zip) the file or git clone the repo and extract the zip file
 * cd to the folder
 * python3 main.py
 # NOTE
