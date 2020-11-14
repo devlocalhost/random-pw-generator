@@ -4,9 +4,9 @@ This is a "small" script that allows you to generate random passwords that may c
 * characters
 * both, numbers and characters
 # Some screenshots...
-![Example](https://prnt.sc/uzdgag)
-![Example](https://prnt.sc/uzdh4n)
-![Example](https://prnt.sc/uzdhco)
+![Example](https://github.com/devlocalhost/random-pw-generator/blob/main/pic1.png)
+![Example](https://github.com/devlocalhost/random-pw-generator/blob/main/pic2.png)
+![Example](https://github.com/devlocalhost/random-pw-generator/blob/main/pic3.png)
 # Installation
 No need to install any package, just
 * download the file or git clone it
