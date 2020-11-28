@@ -13,6 +13,6 @@ No need to install any package, just
 * cd to the folder
 * python3 main.py
 # NOTE
-Make sure your python version is 3.6+! This script might NOT work on older version! (it works on mobiles btw, tested with pydroid python version 3.8)
+Make sure your python version is 3.6+! This script will NOT work on older version, because of the fstrings which are not supported on older versions! (it works on mobiles btw, tested with pydroid python version 3.8)
 # have an question?
 add me on discord: **.dev64#3346**
